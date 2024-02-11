@@ -1,0 +1,57 @@
+{
+    "sections": [
+        "norway-finland-sweden",
+        "denmark",
+        "germany",
+        "switzerland",
+        "italy"
+    ],
+    "stages": {
+        "norway-finland-sweden": [
+            "finnmark",
+            "nordkalottleden-north",
+            "nordkalottleden-central",
+            "nordkalottleden-south",
+            "southern-nordlandsruta-borgefjell",
+            "nord-trondelag",
+            "sor-trondelag-hedmark",
+            "dalarnas-laen",
+            "oerebro-laen",
+            "vaestra-goetalands-laen-joenkoepings-laen",
+            "hallands-laen"
+        ],
+        "denmark": [
+            "central-jutland",
+            "south-denmark"
+        ],
+        "germany": [
+            "schleswig-holstein",
+            "hamburg",
+            "nordheide",
+            "suedheide-und-hanoverian-bergland",
+            "lippe-uplands-teutoburg-forest-egge-hills",
+            "sauerland",
+            "westerwald",
+            "taunus",
+            "odenwald",
+            "black-forest"
+        ],
+        "switzerland": [
+            "northeastern-switzerland",
+            "central-switzerland",
+            "southern-switzerland"
+        ],
+        "italy": [
+            "lombardy",
+            "piedmont",
+            "liguria",
+            "emilia-romagna-tuscany",
+            "umbria",
+            "lazio-north",
+            "abruzzo",
+            "lazio-south-molise",
+            "campania",
+            "sicily"
+        ]
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "Route": {
+        "E1": [
+            "Norway",
+            "Finland",
+            "Sweden",
+            "Denmark",
+            "Germany",
+            "Switzerland",
+            "Italy"
+        ],
+        "E2": [
+            "Ireland",
+            "UnitedKingdom",
+            "Netherlands",
+            "Belgium",
+            "Luxembourg",
+            "France"
+        ],
+        "E3": [
+            "Portugal",
+            "Spain",
+            "France",
+            "Belgium",
+            "Luxembourg",
+            "Germany",
+            "CzechRepublic",
+            "Poland",
+            "Slovakia",
+            "Hungary",
+            "Romania",
+            "Bulgaria",
+            "Turkey"
+        ],
+        "E4": [
+            "Portugal",
+            "Spain",
+            "France",
+            "Switzerland",
+            "Germany",
+            "Austria",
+            "Hungary",
+            "Romania",
+            "Serbia",
+            "Bulgaria",
+            "Greece",
+            "Cyprus"
+        ],
+        "E5": [
+            "France",
+            "Switzerland",
+            "Germany",
+            "Austria",
+            "Italy"
+        ],
+        "E6": [
+            "Finland",
+            "Sweden",
+            "Denmark",
+            "Germany",
+            "Austria",
+            "Slovenia",
+            "Croatia",
+            "Greece",
+            "Turkey"
+        ],
+        "E7": [
+            "Portugal",
+            "Spain",
+            "Andorra",
+            "France",
+            "Italy",
+            "Slovenia",
+            "Croatia",
+            "Hungary",
+            "Serbia"
+        ],
+        "E8": [
+            "Ireland",
+            "UnitedKingdom",
+            "Netherlands",
+            "Germany",
+            "Austria",
+            "Slovakia",
+            "Poland",
+            "Ukraine",
+            "Romania",
+            "Bulgaria",
+            "Turkey"
+        ],
+        "E9": [
+            "Portugal",
+            "Spain",
+            "France",
+            "UnitedKingdom",
+            "Belgium",
+            "Netherlands",
+            "Germany",
+            "Poland",
+            "KaliningradOblast",
+            "Lithuania",
+            "Latvia",
+            "Estonia"
+        ],
+        "E10": [
+            "Finland",
+            "Germany",
+            "CzechRepublic",
+            "Austria",
+            "Italy",
+            "France",
+            "Spain"
+        ],
+        "E11": [
+            "Netherlands",
+            "Germany",
+            "Poland",
+            "Lithuania",
+            "Latvia",
+            "Estonia"
+        ],
+        "E12": [
+            "Spain",
+            "France",
+            "Italy",
+            "Slovenia",
+            "Croatia"
+        ]
+    },
+    "Length": {
+        "E1": 7000,
+        "E2": 4850,
+        "E3": 6950,
+        "E4": 10000,
+        "E5": 3200,
+        "E6": 6300,
+        "E7": 6000,
+        "E8": 4700,
+        "E9": 5000,
+        "E10": 2880,
+        "E11": 3506,
+        "E12": 1800
+    }
+}

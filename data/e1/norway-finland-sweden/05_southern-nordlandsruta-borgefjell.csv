@@ -1,0 +1,28 @@
+,Start,Finish,Distance,Total climb,Total descent
+0,Ny-Sulitjelma fjellstue,Lomihytta,4.5,0.209,0.073
+1,Lomihytta,Calalveshytta,13.1,0.508,0.63
+2,Calalveshytta,Coarvihytta,11.7,0.444,0.418
+3,Coarvihytta,Balvasshytta,18.3,0.639,0.634
+4,Balvasshytta,Argaladhytta,9.3,0.298,0.345
+5,Argaladhytta,Trygvebu,7.6,0.142,0.315
+6,Trygvebu,Graddis fjellstue,7.9,0.304,0.28
+7,Graddis fjellstue,Lønstua,14.4,0.524,0.481
+8,Lønstua,Saltfjellstua,23.1,0.73,0.619
+9,Saltfjellstua,Krukkistua,4.6,0.067,0.146
+10,Krukkistua,Bolnastua,25.3,0.62,0.566
+11,Bolnastua,Virvasshytta,24.4,0.69,0.585
+12,Virvasshytta,Kvitsteindalstunet,21.2,0.372,0.451
+13,Kvitsteindalstunet,Sauvasshytta,15.4,0.735,0.343
+14,Sauvasshytta,Umbukta fjellstue,11.2,0.081,0.517
+15,Umbukta fjellstue,Kjennsvasshytta,21.9,0.583,0.592
+16,Kjennsvasshytta,Gressvasshytta,7.0,0.264,0.197
+17,Gressvasshytta,Steikvasselv,18.3,0.388,0.611
+18,Steikvasselv,Sivertgården,15.5,0.613,0.474
+19,Sivertgården,Krutvatnet-Fisketjønna,19.7,1.038,0.956
+20,Krutvatnet-Fisketjønna,Tverrelvnes,19.7,0.446,0.499
+21,Tverrelvnes,Grannes,12.6,0.311,0.54
+22,Grannes,Daningen,22.4,0.804,0.509
+23,Daningen,Tiplingan Skogstue,14.2,0.284,0.323
+24,Tiplingan Skogstue,Raentserenmehkie,14.4,0.278,0.043
+25,Raentserenmehkie,Viermahytta,24.5,0.145,0.666
+26,Viermahytta,Bustadmo,17.6,0.056,0.044

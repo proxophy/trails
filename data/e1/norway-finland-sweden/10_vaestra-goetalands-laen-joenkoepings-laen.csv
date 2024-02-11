@@ -1,0 +1,24 @@
+,Start,Finish,Distance,Total climb,Total descent
+0,Stenkällegården,Forsvik,27.4,0.591,0.614
+1,Forsvik,Mölltorp,11.9,0.318,0.306
+2,Mölltorp,Röå,13.5,0.407,0.349
+3,Röå,Hjo,25.9,0.547,0.611
+4,Hjo,Baståsen,17.8,0.546,0.501
+5,Baståsen,Semesterbyn,21.7,0.714,0.627
+6,Semesterbyn,Fagerhult,15.7,0.42,0.453
+7,Fagerhult,Hotel Mullsjö,29.9,0.534,0.523
+8,Hotel Mullsjö,Årås kvarn,21.3,0.538,0.521
+9,Årås kvarn,Böne kyrka,11.5,0.262,0.263
+10,Böne kyrka,Prångens Camping,15.1,0.323,0.397
+11,Prångens Camping,Blackered,11.5,0.199,0.096
+12,Blackered,Karlsaflogarna,19.8,0.446,0.501
+13,Karlsaflogarna,Rya åsar,19.4,0.561,0.585
+14,Rya åsar,SOK-Stugan,13.2,0.406,0.4
+15,SOK-Stugan,Olsfors / IK Omega,10.1,0.232,0.273
+16,Olsfors / IK Omega,Hestrafors IF,9.3,0.217,0.308
+17,Hestrafors IF,Hindas,13.7,0.442,0.402
+18,Hindas,Härskogen,9.6,0.305,0.343
+19,Härskogen,Kåsjön,18.1,0.665,0.684
+20,Kåsjön,Skatås,10.6,0.36,0.396
+21,Skatås,Stensjön,8.8,0.322,0.319
+22,Stensjön,Blåvättnerna,19.5,0.687,0.66

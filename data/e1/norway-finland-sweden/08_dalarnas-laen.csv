@@ -1,0 +1,25 @@
+,Start,Finish,Distance,Total climb,Total descent
+0,Grövelsjön,Skärvagan,28.6,0.826,0.962
+1,Skärvagan,Busjön,21.1,0.698,0.573
+2,Busjön,Id-Perssätern,16.9,0.513,0.499
+3,Id-Perssätern,Gördalen,17.4,0.603,0.755
+4,Gördalen,Tangsjöstugan,21.2,0.631,0.316
+5,Tangsjöstugan,Björnholmstugan,24.5,0.715,1.088
+6,Björnholmstugan,Närfjällsstugan,22.1,1.103,0.811
+7,Närfjällsstugan,Sälen Högfjellhotel,20.1,0.733,0.829
+8,Sälen Högfjellhotel,Bergaby,17.1,0.174,0.593
+9,Bergaby,Skärlokskojan,18.1,0.291,0.096
+10,Skärlokskojan,Rosttjärn,16.0,0.11,0.245
+11,Rosttjärn,Axikojan,21.4,0.148,0.306
+12,Axikojan,Prästskogskojan,12.7,0.256,0.284
+13,Prästskogskojan,Mora,20.7,0.0,0.0
+14,Mora,Södra Garberg,20.4,0.768,0.476
+15,Södra Garberg,Mångberg,29.2,0.698,0.949
+16,Mångberg,Brasjön,22.9,0.603,0.57
+17,Brasjön,Ljusbodarna,26.5,0.749,0.634
+18,Ljusbodarna,Mockfjärd,23.2,1.178,1.36
+19,Mockfjärd,Spansfäbodarna,25.4,0.859,0.686
+20,Spansfäbodarna,Lilla Bråfall,18.8,0.21,0.323
+21,Lilla Bråfall,Smedjebacken,21.5,0.406,0.504
+22,Smedjebacken,Björsjö,18.1,0.42,0.367
+23,Björsjö,Kloten,18.5,0.391,0.288
